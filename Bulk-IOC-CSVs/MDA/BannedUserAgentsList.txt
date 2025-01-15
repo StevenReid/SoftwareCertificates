@@ -599,3 +599,4 @@ MolokaiBot
 gobuster
 MSAppHost
 CensysInspect
+fasthttp
